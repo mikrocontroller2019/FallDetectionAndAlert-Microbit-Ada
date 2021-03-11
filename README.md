@@ -1,5 +1,5 @@
-# FallDetectionAndAlert-Microbit-Ada
-FallDetectionAndAlert-Microbit-Ada - A PoC for a simple fall detection and alert system featuring the BBC micro:bit board and the Ada programming language.
+# Fall Detection & Alert w/ micro:bit & Ada
+Fall Detection & Alert with BBC micro:bit & Ada - A PoC for a simple fall detection and alert system featuring the BBC micro:bit board and the Ada programming language.
 
 ![](media/cover.png)
 
